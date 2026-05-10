@@ -57,6 +57,7 @@ all your applications from a single, central auth server.
 -   ✅ **Refresh Token Flow**
 -   ✅ **Device Authorization Flow**
 -   ✅ **JWT Bearer Token Flow**
+-   ✅ **OpenID Connect ID Tokens**
 -   ✅ **Token Introspection & Revocation**
 -   ✅ **JWKS & Discovery Endpoints**
 -   ✅ **Admin Dashboard & API**
